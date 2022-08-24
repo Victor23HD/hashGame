@@ -91,9 +91,9 @@ h1{
 }
 .o-scoreboard{
     display: inline-block;
-    width: 15px;
-    height: 15px;
-    border: 2px solid green;
+    width: 13px;
+    height: 13px;
+    border: 3px solid green;
     border-radius: 50%;
 }
 
